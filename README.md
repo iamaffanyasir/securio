@@ -31,7 +31,7 @@ Nothing is uploaded, synced, or shared — complete data ownership remains with 
 
 ## 📥 Download Securio
 
-👉 **[Download Latest Windows Installer (EXE)](https://github.com/your-username/your-repo/releases/latest)**  
+👉 **[Download Latest Windows Installer (EXE)](https://github.com/iamaffanyasir/securio/releases/download/v1.0.0b/Securio-Setup-1.0.0.exe)**  
 We provide the official `.exe` installer for Windows.
 
 ---
